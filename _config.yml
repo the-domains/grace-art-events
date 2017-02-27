@@ -21,16 +21,16 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef0443e-97b9-494f-a41e-326b0be26695.png
 name: "\_"
 navigation:
+  - name: COMING UP AT GRACE ART EVENTS
+    url: >-
+      https://calendar.google.com/calendar/embed?src=she6r19aiflsftrl0qc00e81a0%40group.calendar.google.com&ctz=Australia/Brisbane
+    type: external
   - name: LIFE DRAWING SESSIONS
     id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
     type: content
   - name: LIFE MODEL TRAINING
     id: 48e8cc92-6cf6-464b-a3e9-0aeea8655190
     type: content
-  - name: COMING UP AT GRACE ART EVENTS
-    url: >-
-      https://calendar.google.com/calendar/embed?src=she6r19aiflsftrl0qc00e81a0%40group.calendar.google.com&ctz=Australia/Brisbane
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
