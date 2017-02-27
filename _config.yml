@@ -1,4 +1,6 @@
 typography_spectrum: 0.6693724666256458
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5336822897661477
   lightness: 0.3650839251931757
@@ -10,14 +12,22 @@ color:
     - '#BF198D'
     - '#5F0058'
     - '#FF0000'
+github: true
 layout_spectrum: 0.0784056878183037
 author:
   name: Sarah Greenwood
   email: info@graceartevents.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c839dea-2426-4100-923d-641e2052efe3.png
 name: "\_"
+navigation:
+  - name: Coming up at Grace Art Events...
+    url: 'https://she6r19aiflsftrl0qc00e81a0@group.calendar.google.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
+content: []
 description: Putting LIFE into DRAWING!
 purpose:
   - type: external
@@ -26,9 +36,3 @@ purpose:
   - type: contact
     url: 'tel:0422959537'
     label: 'Ph: 0422 959 537'
-content: []
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c839dea-2426-4100-923d-641e2052efe3.png
-github: true
-content_rating:
-  adult: false
