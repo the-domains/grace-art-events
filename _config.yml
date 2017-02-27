@@ -42,6 +42,6 @@ purpose:
     label: Like us on Facebook
   - type: contact
     url: 'tel:0422959537'
-    label: 'Ph: 0422 959 537'
+    label: Contact
 analytics:
   twitter: '@graceartevents'
