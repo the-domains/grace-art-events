@@ -1,11 +1,12 @@
 ---
 inFeed: true
 description: 'Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End'
-dateModified: '2017-02-27T15:32:47.950Z'
-datePublished: '2017-02-27T15:32:48.815Z'
+dateModified: '2017-02-27T15:41:04.178Z'
+datePublished: '2017-02-27T15:41:05.313Z'
 title: Coming Up @ Grace Art Events
 author: []
-publisher: {}
+publisher:
+  name: Sarah Greenwood
 via: {}
 sourcePath: _posts/2017-02-27-coming-up-grace-art-events.md
 hasPage: true
@@ -17,6 +18,7 @@ _type: Article
 ---
 # Coming Up   
 @ Grace Art Events
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/346b5e3b-9ee0-48b0-bcc4-f268530bd5e7.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUF1vgzAM_CsoEn0bBLYx-pFO66T-jxBMEtVg6qSqtl_fNkx9mp_uTvaddTs_sB4hC2yUcDHOYVOWRiNMvebCElmEwtD41EoYO-g_HXjromqkXOlx3l5PIaoqwc4aQmKV16_HNEl9-AcHDVdr7QcMQ2SUZyMltJWW-Zu0TJe5-Cc5nT8tq7b-fv9YtPirvi4hskav8_p4YB86PYHIQvxBUKIj7oFfrr6PbiNFloASrbzjv_9F8yCpgmVbiTsPhgnRT1aJicR-Vy4l7W9v6GZK" height="244" style=""></iframe>
 
