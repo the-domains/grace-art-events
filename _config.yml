@@ -1,19 +1,19 @@
-typography_spectrum: 0.6693724666256458
+layout_spectrum: 0.4167344727248211
+typography_spectrum: 0.6851637269939195
+color:
+  brandStrength: 0.37770636101594507
+  lightness: 0.48611399183520065
+  saturation: 0.8092051090340656
+  rhythmicContrast: 0.7534279544551922
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.5336822897661477
-  lightness: 0.3650839251931757
-  saturation: 0.5714474080596119
-  rhythmicContrast: 0.19340151478536427
-  brandColors:
-    - '#9E1231'
-    - '#000000'
-    - '#BF198D'
-    - '#5F0058'
-    - '#FF0000'
 github: true
-layout_spectrum: 0.0784056878183037
 author:
   name: Sarah Greenwood
   email: info@graceartevents.com.au
