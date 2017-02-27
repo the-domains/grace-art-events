@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-27T14:46:43.583Z'
-datePublished: '2017-02-27T14:46:45.504Z'
-title: Coming Up  @ Grace Art Events
+dateModified: '2017-02-27T14:47:56.456Z'
+datePublished: '2017-02-27T14:47:57.276Z'
+title: Coming Up @ Grace Art Events
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-27-coming-up-grace-art-events.md
 starred: false
 datePublishedOriginal: '2017-02-27T14:46:45.504Z'
-sourcePath: _posts/2017-02-27-coming-up-grace-art-events.md
 _type: Blurb
 
 ---
