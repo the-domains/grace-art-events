@@ -1,12 +1,12 @@
 ---
-dateModified: '2017-02-27T05:31:03.481Z'
+dateModified: '2017-02-27T15:04:41.227Z'
 app_links:
   - namespace: twitter
     type: iphone
     id: '375990038'
     name: Meetup
     url: 'meetup://groups/graceartevents'
-datePublished: '2017-02-27T05:32:04.839Z'
+datePublished: '2017-02-27T15:04:42.141Z'
 inFeed: true
 description: >-
   Grace Art Events holds weekly life drawing classes in West End on Wednesday
@@ -30,8 +30,8 @@ via: {}
 isBasedOnUrl: 'http://www.meetup.com/graceartevents'
 publisher:
   favicon: 'http://www.meetup.com/favicon.ico'
-  url: 'http://www.meetup.com/'
-  name: Meetup
+  url: 'http://www.meetup.com/graceartevents'
+  name: Meetup.com
   domain: www.meetup.com
 author: []
 starred: false
@@ -40,4 +40,4 @@ _type: MediaObject
 _context: 'http://schema.org'
 
 ---
-![Grace Art Events holds weekly life drawing classes in West End on Wednesday and Thursday nights 7-9pm at Kurilpa Hall, 174 Boundary St, West End. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/353ba24c-7f75-480a-bfb4-ad8e99ff0dbb.jpg)
+![Grace Art Events holds weekly life drawing classes in West End on Wednesday and Thursday nights 7-9pm at Kurilpa Hall, 174 Boundary St, West End. ](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f052cf6d272131917fe00bc2104f0b4/croprotate.jpg?cropheight=3040&cropwidth=2132&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F353ba24c-7f75-480a-bfb4-ad8e99ff0dbb.jpg&x=0&y=0)
