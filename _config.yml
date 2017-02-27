@@ -1,5 +1,6 @@
-layout_spectrum: 0.4167344727248211
 typography_spectrum: 0.6851637269939195
+content_rating:
+  adult: false
 color:
   brandStrength: 0.37770636101594507
   lightness: 0.48611399183520065
@@ -11,9 +12,10 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.4167344727248211
+analytics:
+  twitter: '@graceartevents'
 author:
   name: Sarah Greenwood
   email: info@graceartevents.com.au
@@ -27,6 +29,9 @@ navigation:
   - name: LIFE MODEL TRAINING
     id: 48e8cc92-6cf6-464b-a3e9-0aeea8655190
     type: content
+  - name: What's On
+    id: ba22dfe1-5eda-454c-8b34-7694b3b8d9eb
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
@@ -39,5 +44,3 @@ purpose:
   - type: external
     url: 'http://eepurl.com/bE-Fa1'
     label: Join Our Mailing List
-analytics:
-  twitter: '@graceartevents'
