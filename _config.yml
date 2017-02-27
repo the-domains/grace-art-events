@@ -24,6 +24,9 @@ navigation:
   - name: WHAT'S ON
     url: 'https://she6r19aiflsftrl0qc00e81a0@group.calendar.google.com'
     type: external
+  - name: Life Drawing
+    id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
