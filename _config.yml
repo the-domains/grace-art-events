@@ -40,8 +40,8 @@ purpose:
   - type: external
     url: 'http://www.facebook.com/GraceArtEvent5'
     label: Like us on Facebook
-  - type: contact
-    url: 'tel:0422959537'
-    label: Contact
+  - type: external
+    url: 'http://eepurl.com/bE-Fa1'
+    label: Stay up to date
 analytics:
   twitter: '@graceartevents'
