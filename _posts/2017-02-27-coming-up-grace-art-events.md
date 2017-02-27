@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: 'Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End'
-dateModified: '2017-02-27T15:31:32.832Z'
-datePublished: '2017-02-27T15:31:34.419Z'
+dateModified: '2017-02-27T15:32:47.950Z'
+datePublished: '2017-02-27T15:32:48.815Z'
 title: Coming Up @ Grace Art Events
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-02-27-coming-up-grace-art-events.md
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-location/?latitude=-27.482273&longitude=153.012114&zoom=16&address=174%20Boundary%20Street%2C%20West%20End%2C%20Queensland%204101%2C%20Australia
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-27T14:46:45.504Z'
-_type: MediaObject
+url: coming-up-grace-art-events/index.html
+_type: Article
 
 ---
 # Coming Up   
