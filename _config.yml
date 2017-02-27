@@ -1,8 +1,50 @@
+content: []
+description: Putting LIFE into DRAWING!
+title: Grace Art Events
+content_rating:
+  adult: false
+navigation:
+  - type: content
+    name: LIFE DRAWING SESSIONS
+    id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
+  - type: content
+    name: LIFE MODEL TRAINING
+    id: 48e8cc92-6cf6-464b-a3e9-0aeea8655190
+  - url: 'https://she6r19aiflsftrl0qc00e81a0@group.calendar.google.com'
+    name: COMING UP AT GRACE ART EVENTS
+    type: external
 layout_spectrum: 0.4167344727248211
-typography_spectrum: 0.6851637269939195
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
+author:
+  email: info@graceartevents.com.au
+  name: Sarah Greenwood
+name: "\_graceartevents"
+purpose:
+  - url: 'http://www.facebook.com/GraceArtEvent5'
+    type: external
+    label: Like us on Facebook
+  - url: 'tel:0422959537'
+    type: contact
+    label: 'Ph: 0422 959 537'
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.37770636101594507
-  lightness: 0.48611399183520065
+  brandStrength: 0.3777063610159451
+  lightness: 0.4861139918352007
   saturation: 0.8092051090340656
   rhythmicContrast: 0.7534279544551922
   brandColors:
@@ -11,34 +53,6 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-content_rating:
-  adult: false
-github: true
-author:
-  name: Sarah Greenwood
-  email: info@graceartevents.com.au
+typography_spectrum: 0.6851637269939195
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c839dea-2426-4100-923d-641e2052efe3.png
-name: "\_"
-navigation:
-  - name: LIFE DRAWING SESSIONS
-    id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
-    type: content
-  - name: LIFE MODEL TRAINING
-    id: 48e8cc92-6cf6-464b-a3e9-0aeea8655190
-    type: content
-  - name: COMING UP AT GRACE ART EVENTS
-    url: 'https://she6r19aiflsftrl0qc00e81a0@group.calendar.google.com'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
-title: Grace Art Events
-content: []
-description: Putting LIFE into DRAWING!
-purpose:
-  - type: external
-    url: 'http://www.facebook.com/GraceArtEvent5'
-    label: Like us on Facebook
-  - type: contact
-    url: 'tel:0422959537'
-    label: 'Ph: 0422 959 537'
