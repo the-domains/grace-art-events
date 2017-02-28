@@ -4,8 +4,8 @@ description: >-
   We all know that sometimes, especially when you are just getting started in
   your creative career, it can be challenging to keep the flow of abundance…
   well… flowing.
-dateModified: '2017-02-28T12:52:40.668Z'
-datePublished: '2017-02-28T12:52:42.625Z'
+dateModified: '2017-02-28T12:52:57.500Z'
+datePublished: '2017-02-28T12:52:58.850Z'
 title: Work Creatively for $$$
 author: []
 publisher:
@@ -36,4 +36,4 @@ Here are some sites worth considering if you are looking to make some creative $
 
 **Threadless**- Threadless Artist Shops give artists the opportunity to put their artwork on t-shirts, sweaters, male, female, children's size clothes, homewares and art prints. The site is not dissimilar to Printful- except that they run regular design competitions and there is lots of info for artists and an active community willing to give constructive feedback on designs and marketing. This site provides the benefits of a fully functional e-commerce store with none of the hassle. They handle the inventory, manufacturing, shipping, and customer care. And it's free to join! You even get to set your own prices.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c7f0cc9088016771499f5db5b375bdb/noop.jpg?input=https%3A%2F%2Fcdn-images.threadless.com%2Fthreadless-media%2Fartist_shops%2Fsignup_landings%2Fsocial%2Ffb_shops.jpg%3Fv%3D3%26d%3DeyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbXX0%3D" /><h1>Artist Shops - You Make Art, We'll Do The Rest</h1><p>With Artist Shops you can sell your art online within minutes. Set up is quick, easy and absolutely free!</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b11aba08891eacb9454c7bb72130695b7de7dfd.jpg" /><h1>Artist Shops - You Make Art, We'll Do The Rest</h1><p>With Artist Shops you can sell your art online within minutes. Set up is quick, easy and absolutely free!</p></article>
