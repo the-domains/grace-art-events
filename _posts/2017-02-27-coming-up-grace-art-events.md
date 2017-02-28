@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End'
-dateModified: '2017-02-28T01:45:09.923Z'
-datePublished: '2017-02-28T01:45:10.865Z'
+dateModified: '2017-02-28T01:46:30.005Z'
+datePublished: '2017-02-28T01:46:31.040Z'
 title: Coming Up @ Grace Art Events
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 @ Grace Art Events
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f619933d-1384-41e8-bd35-bae0fe6ec229.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUF1vgzAM_CsoEn0bBLYx-pFO66T-jxBMEtVg6qSqtl_fNkx9mp_uTvaddTs_sB4hC2yUcDHOYVOWRiNMvebCElmEwtD41EoYO-g_HXjromqkXOlx3l5PIaoqwc4aQmKV16_HNEl9-AcHDVdr7QcMQ2SUZyMltJWW-Zu0TJe5-Cc5nT8tq7b-fv9YtPirvi4hskav8_p4YB86PYHIQvxBUKIj7oFfrr6PbiNFloASrbzjv_9F8yCpgmVbiTsPhgnRT1aJicR-Vy4l7W9v6GZK" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUF1vgzAM_CsoEn0bBLYx-pFO66T-jxBMEtVg6qSqtl_fNkx9mp_uTvaddTs_sB4hC2yUcDHOYVOWRiNMvebCElmEwtD41EoYO-g_HXjromqkXOlx3l5PIaoqwc4aQmKV16_HNEl9-AcHDVdr7QcMQ2SUZyMltJWW-Zu0TJe5-Cc5nT8tq7b-fv9YtPirvi4hskav8_p4YB86PYHIQvxBUKIj7oFfrr6PbiNFloASrbzjv_9F8yCpgmVbiTsPhgnRT1aJicR-Vy4l7W9v6GZK" height="400" style=""></iframe>
 
 Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End
 
