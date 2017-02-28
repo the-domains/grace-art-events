@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.telegraph.co.uk/news/science/science-news/11522730/Painting-drawing-and-sculpting-in-old-age-may-protect-against-dementia.html
 title: 'Painting, drawing and sculpting in old age may protect against dementia'
-datePublished: '2017-02-28T12:09:45.096Z'
-dateModified: '2017-02-28T12:09:44.537Z'
+datePublished: '2017-02-28T13:01:27.422Z'
+dateModified: '2017-02-28T13:01:26.712Z'
 via: {}
 inFeed: true
 sourcePath: >-
