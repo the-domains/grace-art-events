@@ -22,19 +22,22 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'http://www.instagram.com/graceartevents'
 title: Instagram
-datePublished: '2017-02-28T11:41:52.251Z'
-dateModified: '2017-02-28T11:41:51.161Z'
+datePublished: '2017-02-28T11:48:34.844Z'
+dateModified: '2017-02-28T11:48:33.932Z'
 description: ''
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-28-grace-art-events-graceartevents-instagram-photos-and-vi.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-28T03:21:45.191Z'
+url: instagram/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
 # Instagram
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/016c065f3045d8f87c1dfb56d9592a7f/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2Fs150x150%2F12071001_898722096847701_406939766_a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11be715ad6cfd3164a76eec1f550dd592512c242.jpg)
+
+---
