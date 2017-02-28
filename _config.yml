@@ -1,19 +1,19 @@
-typography_spectrum: 0.6851637269939195
-content_rating:
-  adult: false
+layout_spectrum: 0.7445957011009318
+typography_spectrum: 0.98655869092322
 color:
-  brandStrength: 0.37770636101594507
-  lightness: 0.48611399183520065
-  saturation: 0.8092051090340656
-  rhythmicContrast: 0.7534279544551922
+  brandStrength: 0.5847763226816596
+  lightness: 0.9543273123078011
+  saturation: 0.4295279744623395
+  rhythmicContrast: 0.5949037976135121
   brandColors:
     - '#F7F2B2'
     - '#ADCF4F'
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.4167344727248211
 analytics:
   twitter: '@graceartevents'
 author:
