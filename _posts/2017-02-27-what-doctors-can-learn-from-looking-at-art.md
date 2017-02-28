@@ -57,8 +57,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.nytimes.com/2016/12/22/well/live/what-doctors-can-learn-from-looking-at-art.html?smid=fb-share&_r=0
 title: What Doctors Can Learn From Looking at Art
-datePublished: '2017-02-27T15:18:00.492Z'
-dateModified: '2017-02-27T15:17:59.520Z'
+datePublished: '2017-02-28T12:09:45.664Z'
+dateModified: '2017-02-28T12:09:44.537Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-what-doctors-can-learn-from-looking-at-art.md
