@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End'
-dateModified: '2017-02-27T23:58:39.451Z'
-datePublished: '2017-02-27T23:58:41.113Z'
+dateModified: '2017-02-28T01:39:17.840Z'
+datePublished: '2017-02-28T01:39:19.004Z'
 title: Coming Up @ Grace Art Events
 author: []
 publisher: {}
