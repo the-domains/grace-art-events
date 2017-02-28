@@ -1,5 +1,6 @@
-layout_spectrum: 0.7445957011009318
 typography_spectrum: 0.98655869092322
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5847763226816596
   lightness: 0.9543273123078011
@@ -11,9 +12,8 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.7445957011009318
 analytics:
   twitter: '@graceartevents'
 author:
@@ -23,7 +23,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aae15bd-117c-4915-8fe4-b32c1d8544a3.png
 name: "\_"
 navigation:
-  - name: LIFE DRAWING SESSIONS
+  - name: Life Drawing Sessions
     id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
     type: content
   - name: WHAT'S ON
