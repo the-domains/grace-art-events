@@ -23,14 +23,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aae15bd-117c-4915-8fe4-b32c1d8544a3.png
 name: "\_"
 navigation:
+  - name: WHAT'S ON
+    id: ba22dfe1-5eda-454c-8b34-7694b3b8d9eb
+    type: content
   - name: LIFE DRAWING SESSIONS
     id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
     type: content
   - name: LIFE MODEL TRAINING
     id: 48e8cc92-6cf6-464b-a3e9-0aeea8655190
-    type: content
-  - name: WHAT'S ON
-    id: ba22dfe1-5eda-454c-8b34-7694b3b8d9eb
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
