@@ -23,9 +23,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'http://www.instagram.com/graceartevents'
-title: 'Instagram (@graceartevents)  '
-datePublished: '2017-02-28T11:40:03.856Z'
-dateModified: '2017-02-28T11:40:02.518Z'
+title: 'Instagram @graceartevents  '
+datePublished: '2017-02-28T11:40:18.214Z'
+dateModified: '2017-02-28T11:40:17.296Z'
 description: ''
 via: {}
 inFeed: true
