@@ -61,13 +61,13 @@ isBasedOnUrl: >-
 title: >-
   The UK craft sector isn't a 'hipster' economy. It's sparking innovation | Rosy
   Greenlees
-datePublished: '2017-02-27T15:26:04.572Z'
-dateModified: '2017-02-27T15:25:52.243Z'
-datePublishedOriginal: '2017-02-27T15:26:04.572Z'
+datePublished: '2017-02-28T12:09:45.100Z'
+dateModified: '2017-02-28T12:09:44.537Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-27-the-uk-craft-sector-isnt-a-hipster-economy-its-sparking.md
+starred: false
+datePublishedOriginal: '2017-02-27T15:26:04.572Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
