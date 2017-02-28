@@ -26,8 +26,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.buro247.sg/culture/insiders/artist-liz-atkin-on-art-and-skin-picking-disorder.html
 title: Meet the Brit artist who turns her skin picking disorder into art
-datePublished: '2017-02-28T12:09:45.665Z'
-dateModified: '2017-02-28T12:09:44.537Z'
+datePublished: '2017-02-28T13:01:27.418Z'
+dateModified: '2017-02-28T13:01:26.712Z'
 via: {}
 inFeed: true
 sourcePath: >-
