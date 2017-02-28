@@ -23,17 +23,17 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'http://www.instagram.com/graceartevents'
-title: Grace Art Events (@graceartevents) * Instagram photos and videos
-datePublished: '2017-02-28T03:21:45.191Z'
-dateModified: '2017-02-28T03:21:01.280Z'
-datePublishedOriginal: '2017-02-28T03:21:45.191Z'
+title: 'Instagram (@graceartevents)  '
+datePublished: '2017-02-28T11:40:03.856Z'
+dateModified: '2017-02-28T11:40:02.518Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-02-28-grace-art-events-graceartevents-instagram-photos-and-vi.md
+starred: false
+datePublishedOriginal: '2017-02-28T03:21:45.191Z'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Grace Art Events (@graceartevents) * Instagram photos and videos](https://scontent.cdninstagram.com/t51.2885-19/s150x150/12071001_898722096847701_406939766_a.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/016c065f3045d8f87c1dfb56d9592a7f/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2Fs150x150%2F12071001_898722096847701_406939766_a.jpg)
