@@ -38,6 +38,9 @@ navigation:
   - name: MAKE $$$ WITH YOUR PASSION
     id: b9fbe01b-0799-4113-b883-ddf543cfb1df
     type: content
+  - name: art and health
+    id: 34681f48-c69b-4b7f-9046-91a38c3b2c93
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
