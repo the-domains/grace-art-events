@@ -26,7 +26,7 @@ navigation:
   - name: life drawing sessions
     id: 45ca1797-acc6-4c7c-8b92-5c52afedf236
     type: content
-  - name: WHAT'S ON
+  - name: what's on
     id: ba22dfe1-5eda-454c-8b34-7694b3b8d9eb
     type: content
   - name: LIFE MODEL TRAINING
