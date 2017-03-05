@@ -23,17 +23,17 @@ description: >-
   culture and positive change converge. Music and travel are her lifelines.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.buro247.sg/culture/insiders/artist-liz-atkin-on-art-and-skin-picking-disorder.html
 title: Meet the Brit artist who turns her skin picking disorder into art
-datePublished: '2017-02-28T13:01:27.418Z'
-dateModified: '2017-02-28T13:01:26.712Z'
+datePublished: '2017-03-05T02:04:32.451Z'
+dateModified: '2017-03-05T02:04:31.003Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-01-23-meet-the-brit-artist-who-turns-her-skin-picking-disorder-int.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-23T00:56:38.972Z'
+url: meet-the-brit-artist-who-turns-her-skin-picking-disorder-int/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
