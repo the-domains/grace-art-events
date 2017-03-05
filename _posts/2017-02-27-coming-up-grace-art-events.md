@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Life Drawing Sessions are held at Kurilpa Hall, 174 Boundary Street, West End'
-dateModified: '2017-02-28T12:09:44.537Z'
-datePublished: '2017-02-28T12:09:45.061Z'
+dateModified: '2017-03-05T01:46:57.835Z'
+datePublished: '2017-03-05T01:46:59.978Z'
 title: Coming Up @ Grace Art Events
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # Coming Up   
 @ Grace Art Events
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f619933d-1384-41e8-bd35-bae0fe6ec229.jpg)
+![BYO paper and drawing materials, some boards available for use and one easel available for use. You are welcome to bring along your own easels. Some parking available at the hall, with loads of street parking available. 199 Bus stops right outside Lock'n'Load Bistro a short walk from the hall. Wednesdays alternate fortnightly between traditional nude and costume sessions with local performers as our models. Check out our facebook page for upcoming models. Everyone welcome! ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f619933d-1384-41e8-bd35-bae0fe6ec229.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtUMtOwzAQ_JXIUriROAFCKN2i8Cg3_sGxN7aFHYe1qwq-ntZBPbGnmdHuzmi2diLhsYgkgZmUlripaykczkpQpUPQDisZ_EWr0Y-onnxQCMP728frcCX88mjQapOg4zzT42dM0GQ4ahlcICjbm32erJ79osGOmgdhJxenRI5_Sc6xbwQvb7mmcFiqf5Lk88vLpm9f7u5XLf3AcIiJhLOibPfPZOMoZmRFTN8OgY2BFNL10apkNpwVGQDr-Qn_5WfdmeRK1m1gJx4lBefsrIHNge229Vra7hfMoWtr" height="600" style=""></iframe>
 
