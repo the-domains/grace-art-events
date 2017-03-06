@@ -28,8 +28,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 'Painting, drawing and sculpting in old age may protect against dementia'
-datePublished: '2017-03-05T02:06:10.388Z'
-dateModified: '2017-03-05T02:06:09.575Z'
+datePublished: '2017-03-06T14:19:59.908Z'
+dateModified: '2017-03-06T14:19:59.606Z'
 via: {}
 inFeed: true
 sourcePath: >-
