@@ -13,8 +13,8 @@ description: feed me seymour feed me
 app_links: []
 isBasedOnUrl: 'https://www.juicer.io/graceartevents'
 title: ''
-datePublished: '2017-03-06T14:19:25.289Z'
-dateModified: '2017-03-06T14:19:24.496Z'
+datePublished: '2017-03-06T14:19:59.887Z'
+dateModified: '2017-03-06T14:19:59.606Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-06-grace-art-events.md
