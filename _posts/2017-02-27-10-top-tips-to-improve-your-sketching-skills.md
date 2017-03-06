@@ -31,8 +31,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.creativebloq.com/advice/10-top-tips-to-improve-your-sketching-skills
 title: 10 top tips to improve your sketching skills
-datePublished: '2017-02-28T13:01:27.398Z'
-dateModified: '2017-02-28T13:01:26.712Z'
+datePublished: '2017-03-06T14:19:59.907Z'
+dateModified: '2017-03-06T14:19:59.606Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-10-top-tips-to-improve-your-sketching-skills.md
