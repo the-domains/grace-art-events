@@ -1,12 +1,12 @@
 ---
-dateModified: '2017-02-28T12:09:44.537Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 app_links:
   - namespace: twitter
     type: iphone
     id: '375990038'
     name: Meetup
     url: 'meetup://groups/graceartevents'
-datePublished: '2017-02-28T12:09:45.622Z'
+datePublished: '2017-03-06T14:33:25.845Z'
 inFeed: true
 description: >-
   Grace Art Events holds weekly life drawing classes in West End on Wednesday
