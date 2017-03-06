@@ -27,8 +27,8 @@ app_links: []
 isBasedOnUrl: >-
   http://collectivehub.com/2016/04/why-creativity-has-nothing-to-do-with-being-creative/
 title: Why Creativity has Nothing to Do With 'Being Creative'
-datePublished: '2017-02-28T13:01:27.405Z'
-dateModified: '2017-02-28T13:01:26.712Z'
+datePublished: '2017-03-06T14:19:59.908Z'
+dateModified: '2017-03-06T14:19:59.606Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-why-creativity-has-nothing-to-do-with-being-creative.md
