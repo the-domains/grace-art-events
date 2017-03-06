@@ -37,13 +37,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.artsy.net/article/artsy-editorial-la-doctors-new-gallery-art-medicine
 title: 'At This L.A. Doctor''s New Gallery, Art Is Medicine'
-datePublished: '2017-03-06T13:50:36.874Z'
-dateModified: '2017-03-06T13:49:56.589Z'
-datePublishedOriginal: '2017-03-06T13:50:36.874Z'
+datePublished: '2017-03-06T14:33:25.890Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-06-at-this-la-doctors-new-gallery-art-is-medicine.md
+starred: false
+datePublishedOriginal: '2017-03-06T13:50:36.874Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
