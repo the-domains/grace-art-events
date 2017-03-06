@@ -35,6 +35,9 @@ navigation:
   - name: freelance art & design sites
     id: b9fbe01b-0799-4113-b883-ddf543cfb1df
     type: content
+  - name: feed me Seymour feed me...
+    url: 'https://www.juicer.io/graceartevents'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/251ebac9-d0a3-4aa9-b36b-19dd728f90ce.jpg
 title: Grace Art Events
