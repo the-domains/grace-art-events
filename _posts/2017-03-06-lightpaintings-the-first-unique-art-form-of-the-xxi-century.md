@@ -30,14 +30,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.boredpanda.com/lightpaintings-by-stephen-knapp/'
 title: 'Lightpaintings: The First Unique Art Form Of The XXI Century'
-datePublished: '2017-03-06T13:47:00.317Z'
-dateModified: '2017-03-06T13:46:16.261Z'
-datePublishedOriginal: '2017-03-06T13:47:00.317Z'
+datePublished: '2017-03-06T14:33:25.891Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-03-06-lightpaintings-the-first-unique-art-form-of-the-xxi-century.md
+starred: false
+datePublishedOriginal: '2017-03-06T13:47:00.317Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
