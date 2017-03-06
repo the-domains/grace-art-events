@@ -59,13 +59,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/lifeandstyle/2017/feb/06/how-the-art-world-airbrushed-female-artists-from-history
 title: How the art world airbrushed female artists from history
-datePublished: '2017-03-05T14:39:37.087Z'
-dateModified: '2017-03-05T14:38:31.078Z'
-datePublishedOriginal: '2017-03-05T14:39:37.087Z'
+datePublished: '2017-03-06T14:33:25.891Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-05-how-the-art-world-airbrushed-female-artists-from-history.md
+starred: false
+datePublishedOriginal: '2017-03-05T14:39:37.087Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
