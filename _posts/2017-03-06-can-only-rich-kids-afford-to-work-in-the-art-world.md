@@ -34,13 +34,13 @@ app_links:
     app_name: Artsy
 isBasedOnUrl: 'https://www.artsy.net/article/artsy-editorial-rich-kids-afford-work-art-world'
 title: Can Only Rich Kids Afford to Work in the Art World?
-datePublished: '2017-03-06T08:25:45.428Z'
-dateModified: '2017-03-06T08:24:46.280Z'
-datePublishedOriginal: '2017-03-06T08:25:45.428Z'
+datePublished: '2017-03-06T14:33:25.893Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-06-can-only-rich-kids-afford-to-work-in-the-art-world.md
+starred: false
+datePublishedOriginal: '2017-03-06T08:25:45.428Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
