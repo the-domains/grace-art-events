@@ -4,8 +4,8 @@ description: >-
   We all know that sometimes, especially when you are just getting started in
   your creative career, it can be challenging to keep the flow of abundance…
   well… flowing.
-dateModified: '2017-03-06T14:19:59.606Z'
-datePublished: '2017-03-06T14:19:59.874Z'
+dateModified: '2017-03-06T14:33:25.205Z'
+datePublished: '2017-03-06T14:33:25.846Z'
 title: Work Creatively for $$$
 author: []
 publisher:
