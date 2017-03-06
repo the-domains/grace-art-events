@@ -59,8 +59,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/artanddesign/2017/feb/07/we-dont-pay-visual-artists-properly-that-needs-to-change
 title: We don't pay visual artists properly - that needs to change | Tamara Winikoff
-datePublished: '2017-02-28T13:01:27.419Z'
-dateModified: '2017-02-28T13:01:26.712Z'
+datePublished: '2017-03-06T14:19:59.874Z'
+dateModified: '2017-03-06T14:19:59.606Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-we-dont-pay-visual-artists-properly-that-needs-to-change.md
