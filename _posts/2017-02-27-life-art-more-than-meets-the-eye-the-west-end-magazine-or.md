@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.westendmagazine.com/life-art-more-than-meets-the-eye/'
 title: Life Art - More Than Meets the Eye - The West End Magazine | 4101 Brisbane
-datePublished: '2017-02-28T12:09:45.092Z'
-dateModified: '2017-02-28T12:09:44.537Z'
+datePublished: '2017-03-06T14:22:07.358Z'
+dateModified: '2017-03-06T14:22:07.182Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-27-life-art-more-than-meets-the-eye-the-west-end-magazine-or.md
