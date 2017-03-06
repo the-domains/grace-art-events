@@ -24,8 +24,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Meet the Brit artist who turns her skin picking disorder into art
-datePublished: '2017-03-06T14:19:59.859Z'
-dateModified: '2017-03-06T14:19:59.606Z'
+datePublished: '2017-03-06T14:33:25.874Z'
+dateModified: '2017-03-06T14:33:25.205Z'
 via: {}
 inFeed: true
 sourcePath: >-
